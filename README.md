@@ -68,7 +68,7 @@ The analysis is performed on two main datasets:
 ## Getting Started
 1. Clone this repository to your local machine using:
 ```
-git clone https://github.com/your-username/covid-analysis-sql.git
+git clone https://github.com/kumudkohli/covid-analysis-sql.git
 ```
 2. Import the provided datasets (coviddeaths.xlsx and covidVaccines.xlsx) into your SQL database.
 
